@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Dataset (downloaded via kagglehub / kept locally, not committed)
+dataset/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
+Thumbs.db
