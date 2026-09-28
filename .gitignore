@@ -16,3 +16,6 @@ __pycache__/
 # OS cruft
 .DS_Store
 Thumbs.db
+
+# Old notebook from the earlier (NEO) dataset, kept locally only
+support_vector_machine_neo_backup.ipynb
