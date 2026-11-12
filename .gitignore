@@ -16,3 +16,6 @@ __pycache__/
 # OS cruft
 .DS_Store
 Thumbs.db
+
+# added by step0 cleanup
+.env
